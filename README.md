@@ -1,2 +1,0 @@
-# WorkShopTypescript
-Created with CodeSandbox
